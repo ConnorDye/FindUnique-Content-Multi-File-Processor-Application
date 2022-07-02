@@ -1,4 +1,4 @@
-# Find Unique Content Application
+# Find Unique Content Multi-File Processor
 
 This program processes a batch of files and determines the unique content of the files by processing the top unique words with their respective count.
 
